@@ -1,4 +1,4 @@
-[Local Help Index](../index/index.html)
+[Local Help Index](../../index/index.html)
 
 # about
 
